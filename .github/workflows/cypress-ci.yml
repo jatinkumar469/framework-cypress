@@ -23,6 +23,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Write uat.json from secret
+        run: |
+          mkdir -p config
+          echo "${{ secrets.UAT_CONFIG }}" > config/uat.json
+
       - name: Run Cypress tests
         run: |
           npx cypress run --headless --browser chrome || true
