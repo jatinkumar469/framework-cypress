@@ -1,0 +1,15 @@
+{
+  "successUserName": "Partnership Auto User",
+  "createChannelSalesOpportunity": {
+    "opportunityRecordType": "Channel Sales",
+    "type": "RBC Core",
+    "stage": "Intro Discussion",
+    "leadSource": "Partner",
+    "accountName": "Ohio State Buckeyes_test",
+    "opportunityName": "Salesforce Oppty Creation",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "closeDate": "9/13/2024",
+    "priceBook": "Bread Pay Direct Sales",
+    "productName": "Clover Bread Pay App"
+  }
+}

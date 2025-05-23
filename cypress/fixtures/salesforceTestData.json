@@ -1,0 +1,29 @@
+{
+  "requestBodyForSalesforceLogin": {
+    "display": "page",
+    "hasRememberUn": "true",
+    "height": "1080",
+    "local": "",
+    "locale": "",
+    "login": "",
+    "loginType": "",
+    "loginURL": "",
+    "lt": "standard",
+    "oauth_callback": "",
+    "oauth_token": "",
+    "pw": "",
+    "qs": "",
+    "serverid": "",
+    "startURL": "",
+    "un": "",
+    "useSecure": "true",
+    "username": "",
+    "width": "2560"
+  },
+  "appnames": {
+    "breadConsole_appname": "Bread Console",
+    "breadpayService_appname": "Bread Pay Service Console",
+    "classicLoan_appname": "Classic Loans",
+    "cases_appname": "Cases"
+  }
+}

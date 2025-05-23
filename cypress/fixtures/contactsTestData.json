@@ -1,0 +1,10 @@
+{
+  "successUserName": "Auto-User Contacts",
+  "createContact": {
+    "salutation": "Mr.",
+    "firstName": "Automation",
+    "lastName": "Test User",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott"
+  }
+}

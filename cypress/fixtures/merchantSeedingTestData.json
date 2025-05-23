@@ -1,0 +1,47 @@
+{
+  "merchantSeedingWithChildAccount": {
+    "appName": "Bread Console",
+    "account": {
+      "parent": "Parent account for merchant seed from child account testing",
+      "parentNotSeeded": "parent account not seeded",
+      "primaryVertical": "Automotive",
+      "secondaryVertical": "Auto Aftermarket"
+    },
+    "integrationProjectDetails": {
+      "integrationName": "AutoTest merchant seeding with child account",
+      "projectType": "Enterprise Merchant"
+    },
+    "merchant": {
+      "legalName": "Test Legal Automation Name",
+      "website": "www.google.com"
+    },
+    "error": {
+      "parentNotSeeded": "Please seed Parent Account to Preview environment first."
+    }
+  },
+  "merchant_seeding": {
+    "caseRecordType": "Merchant Support",
+    "caseDescription": "Salesforce Case Creation Description",
+    "Type": "Sezzle Merchant",
+    "healthStatusReason": "Business Health",
+    "primaryVertical": "Automotive",
+    "secondaryVertical": "Auto Aftermarket",
+    "eCommercePlatform": "Others",
+    "hierarchyLevel": "Holding Company",
+    "hierarchyLevelInternal": "Internal Association",
+    "accountClassification": "Parent",
+    "accountClassificationProspect": "Prospect",
+    "website": "www.google.com",
+    "breadMerchant": "For Bread Merchants using CCB underwriting",
+    "legalEntity": "Test Legal Ent",
+    "fraudrisklevel": "Medium",
+    "supportPhoneNumber": "2344412111",
+    "poscheckout": "Tap To Pay & Key Entry"
+  },
+  "merchantSeed": {
+    "legalName": "Test Legal Automation Name",
+    "website": "www.testAutomationAccount.com",
+    "merchantphoneNumber": "8901234561",
+    "taxinput": "12-3456712"
+  }
+}

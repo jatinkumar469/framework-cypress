@@ -1,0 +1,15 @@
+{
+  "successUserName": "Neha Luthra",
+  "createMerchantCaseHelpCenter": {
+    "caseSubject": "Help Centre Case Creation",
+    "category": "In Store Support",
+    "subCategory": "Order Signage",
+    "caseDescription": "Help Centre Case Creation Process",
+    "merchantCompanyName": "Victorya Secret",
+    "merchantName": "Monsoor",
+    "merchantEmail": "monsoor.fayas@breadfinancial.com",
+    "merchantPhone": "2300023111",
+    "appName": "Bread Pay Service Console",
+    "recentViewCases": "Recently Viewed"
+  }
+}

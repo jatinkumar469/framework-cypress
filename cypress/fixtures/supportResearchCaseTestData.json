@@ -1,0 +1,16 @@
+{
+  "successUserName": "AutoTest Support_Research2",
+  "createSupportResearchCase": {
+    "caseRecordType": "Support Research",
+    "caseSubject": "Salesforce Case Creation Support Research",
+    "caseDescription": "Salesforce Case Creation Support Research description",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott",
+    "category": "Applicant Outreach Request",
+    "priority": "High",
+    "status": "New",
+    "caseOrigin": "Email",
+    "complaint": "Complaint About Bread Pay Products & Services",
+    "caseReason": "Existing problem"
+  }
+}

@@ -1,0 +1,9 @@
+﻿"Signage Order Form - Instructions: 
+• Use this order form to request Bread Pay signage for your stores
+• Add the quantity of signage kits you would like to order and the delivery information for those kits
+",,,,,,,,
+Order Information,Delivery Address Information ,,,,,,,
+Quantity of Signage Kits Requested,First Name,Last Name ,Address Line 1,Address Line 2 ,City ,State ,Postal Code,Country
+1,Eric ,Smith,123 Main St. ,,San Francisco, ,94114,United States
+2,Jennifer,White,4567 North Ave. , ,Milkwaukee,WI ,53201,United States
+1,Eric 2,Smith,123 Main St. ,,San Francisco,CA ,94114,United States

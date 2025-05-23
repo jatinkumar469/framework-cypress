@@ -1,0 +1,30 @@
+{
+  "successUserName": "Cypress Automation",
+  "salescarduserName": "AutoTest SalesCardUser",
+  "createIntegrationProject": {
+    "projectType": "Enterprise Merchant",
+    "integrationName": "Cypress_POC_Test",
+    "accountName": "Cypress_POC_Test_Account",
+    "opportunity": "Cypress_POC_Test_Account - Card - Q3 2024",
+    "salesRep": "AutoTest SalesCardUser",
+    "caseType": "Merchant Integrations",
+    "pennyCaseType": "Penny Test",
+    "pennyCaseOwner": "integuser pennycase",
+    "meetingDetails": "TestData",
+    "dealHistory": "TestData",
+    "integrationGoals": "TestData",
+    "requestType": "Demo",
+    "status": "New",
+    "caseOrigin": "Email",
+    "caseOriginPhone": "Phone",
+    "integrationChannel": "Bread Direct - Ecomm",
+    "updateLegalName": "Test update Legal Name",
+    "merchantReferenceId": "updateMerchantReferenceId",
+    "editParentAccountSucMsg": "Your request has been successfully submitted to Production",
+    "phaseUpdateWoLiveDateValueErrorMsg": "Actual Live Date and Platform Merchant ID are both required before saving a project as Live & Monitoring or Completed."
+  },
+  "phaseDropdownValues": {
+    "liveMonitoring_option": "Live & Monitoring",
+    "completed_option": "Completed"
+  }
+}

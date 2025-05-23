@@ -1,0 +1,23 @@
+{
+  "successUserName": "Auto-User Cases",
+  "createMerchantSupportCase": {
+    "caseRecordType": "Merchant Support",
+    "category": "In Store Support",
+    "subCategory": "Order Signage",
+    "caseOrigin": "Email",
+    "caseSubject": "Salesforce Case Creation Demo",
+    "caseCloseResone": "Issue Resolved",
+    "caseDescription": "Salesforce Case Creation Description",
+    "caseBillToInfo": "Merchant",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott",
+    "merchantCaseOrigin": "Internal",
+    "successOwner": "Jacob McDermott",
+    "successLever": "SMB",
+    "liveBreadProducts": "Clover Bread Pay App",
+    "editCategory": "Onboarding Support",
+    "editSubCategory": "Other Onboarding Issue",
+    "editSubject": "B2B Case Creation Demo",
+    "editDescription": "B2B Case Creation Description"
+  }
+}

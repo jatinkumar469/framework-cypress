@@ -1,0 +1,13 @@
+{
+  "successUserName": "AutoTest Lead1",
+  "lead": {
+    "salutation": "Mr.",
+    "firstName": "Auto",
+    "middleName": "Test",
+    "lastName": "Lead",
+    "company": "Breadfinance",
+    "source": "Google",
+    "activeFlowsCount": 2,
+    "linkedInUrl": "https://linkedin.com"
+  }
+}

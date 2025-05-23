@@ -1,0 +1,93 @@
+{
+  "successUserName": "Auto-User Accounts",
+  "createAccount": {
+    "caseRecordType": "Merchant Support",
+    "pennyCaseRecordType": "Penny Test",
+    "caseDescription": "Salesforce Case Creation Description",
+    "healthStatusReason": "Business Health",
+    "primaryVertical": "Sports & Outdoors",
+    "secondaryVertical": "Firearms",
+    "eCommercePlatform": "Others",
+    "breadMerchant": "For Bread Merchants using CCB underwriting",
+    "rbcMerchant": "RBC Merchant",
+    "partnership": "Partnerships",
+    "bankName": "chase bank",
+    "bankAccountNumber": "098765432",
+    "bankRoutingNumber": "071000013",
+    "fraudRiskLevel": "High"
+  },
+  "primaryVerticalOptions": {
+    "apparel_pm_option": "Apparel",
+    "automotive_pm_option": "Automotive",
+    "avElectronics_pm_option": "AV/Electronics",
+    "health_pm_option": "Health",
+    "hobbies_pm_option": "Hobbies & Novelties",
+    "homeFurnishings_pm_option": "Home Furnishings",
+    "homeImprovement_pm_option": "Home Improvement",
+    "jewelry_pm_option": "Jewelry",
+    "sportsOutdoors_pm_option": "Sports & Outdoors",
+    "travelEvents_pm_option": "Travel & Events",
+    "massMerchant_pm_option": "Mass Merchant"
+  },
+  "secondaryVerticalOptions": {
+    "apparelSvOptions": {
+      "clothingShoes_sv_option": "Clothing & Shoes",
+      "luggage_sv_option": "Luggage",
+      "luxuryConsignment_sv_option": "Luxury Consignment",
+      "luxuryRetail_sv_option": "Luxury Retail",
+      "wedding_sv_option": "Wedding"
+    },
+    "sportsoutdoor": {
+      "firearms": "Firearms"
+    },
+    "automotiveSvOptions": {
+      "autoAftermarket_sv_option": "Auto Aftermarket",
+      "autoBodyRepair_sv_option": "Auto Body Repair",
+      "autoMaintenanceService_sv_option": "Auto Maintenance & Service",
+      "autoParts_sv_option": "Auto Parts",
+      "cars_sv_option": "Cars",
+      "motorhomesRVs_sv_option": "Motorhomes & RVs",
+      "smallBoats_sv_option": "Small Boats",
+      "tiresService_sv_option": "Tires & Service",
+      "truckParts_sv_option": "Truck Parts"
+    },
+    "avElectronicsSvoptions": {
+      "audio_sv_option": "Audio",
+      "computerHardware_sv_option": "Computer Hardware",
+      "computersB2BDistributors_sv_option": "Computers - B2B & Distributors",
+      "computerSoftware_sv_option": "Computer Software",
+      "drones_sv_option": "Drones",
+      "electronics_sv_option": "Electronics",
+      "gamingConsoles_sv_option": "Gaming Consoles",
+      "internetofThings_sv_option": "Internet of Things",
+      "musicalInstruments_sv_option": "Musical Instruments",
+      "onlineGaming_sv_option": "Online Gaming",
+      "photography_sv_option": "Photography",
+      "refurbishedElectronics_sv_option": "Refurbished Electronics",
+      "cricketWireless_sv_option": "Cricket Wireless"
+    },
+    "healthSvOptions": {
+      "beautyWellness_sv_option": "Beauty & Wellness",
+      "dentalProcedures_sv_option": "Dental Procedures",
+      "electiveDermCosmetic_sv_option": "Elective Derm/Cosmetic",
+      "generalHealthMedical_sv_option": "General Health & Medical",
+      "glassesOpticalGoods_sv_option": "Glasses & Optical Goods",
+      "hearing(ENT)Providers_sv_option": "Hearing (ENT) Providers",
+      "hearingAids_sv_option": "Hearing Aids",
+      "medicalDevices_sv_option": "Medical Devices",
+      "mobility_sv_option": "Mobility",
+      "orthodontics_sv_option": "Orthodontics",
+      "sexualHealth_sv_option": "Sexual Health",
+      "veterinary_sv_option": "Veterinary",
+      "visionProviders_sv_option": "Vision Providers"
+    }
+  },
+  "hierarchyLevelOptions": {
+    "holdingCompany_option": "Holding Company",
+    "internalAssociation_option": "Internal Association",
+    "location_option": "Location",
+    "merchantBrand_option": "Merchant Brand",
+    "independantConsultant_option": "Independant Consultant",
+    "dealerFranchise_option": "Dealer/Franchise"
+  }
+}

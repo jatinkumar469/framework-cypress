@@ -1,0 +1,20 @@
+{
+  "diligenceStatus": {
+    "status_draft": "Draft",
+    "status_pending": "Pending",
+    "status_approved": "Approved",
+    "status_rejected": "Rejected"
+  },
+  "diligenceAMLBSAStatusOptions": {
+    "amlBSAStatus_pending": "Pending",
+    "amlBSAStatus_draft": "Draft",
+    "amlBSAStatus_approved": "Approved",
+    "amlBSAStatus_rejected": "Rejected"
+  },
+  "diligenceCreditStatusOptions": {
+    "creditStatus_pending": "Pending",
+    "creditStatus_draft": "Draft",
+    "creditStatus_approved": "Approved",
+    "creditStatus_rejected": "Rejected"
+  }
+}

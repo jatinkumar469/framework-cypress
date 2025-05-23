@@ -1,0 +1,29 @@
+{
+  "name": "framework-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.27.1",
+    "@babel/eslint-plugin": "^7.27.1",
+    "@bahmutov/cy-grep": "^2.0.27",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.3.3",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "dotenv": "^16.5.0",
+    "eslint-plugin-cypress": "^4.3.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-unused-imports": "^4.1.4"
+  }
+}

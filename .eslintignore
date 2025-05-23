@@ -1,0 +1,7 @@
+cypress/screenshots
+coverage
+package.json
+package-lock.json
+yarn.lock
+cypress/snapshots/**
+snapshots.js

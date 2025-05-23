@@ -1,0 +1,24 @@
+{
+  "profileUserName": {
+    "merchantSeedingProgram": "AutoTest Merchant_Program1",
+    "signageFileValidation": "Auto-User Signage",
+    "orderSignageStatusChange": "AutoTest Signage_Status1",
+    "orderSignageCancel": "AutoTest OrderSignage_Cancel1",
+    "dueDiligenceSalesEnterpriseUser": "Test Sales enterprise",
+    "accountCreationWithSuccessUser": "AutoTest Account_SuccessOwner1",
+    "noAutoSuccessUser": "AutoTest NoSuccessOwner",
+    "legalIntegUser": "legal integsoluser",
+    "merchantSeedingUser": "AutoTest Merchant_Seeding1",
+    "merchantSeedingErrorUser": "AutoTest Seeded_Error1",
+    "createMerchantPreviewUser": "test auto Int User",
+    "merchantChildUser": "AutoTest Merchant_Child1",
+    "merchantSeedToPreviewProdUser": "IntegAutoTest SuccessUser",
+    "merchantSeedIntegProjectUser": "Cypress Integration User",
+    "merchantSeedAccountCoreFieldsUser": "Integration automation User",
+    "editParentAccountUser": "EditParentAccount integrationsolutionuser",
+    "sezzleAccountUser": "AutoTest Edit_SalesForce",
+    "noCreateMerchantBtnUser": "integAuto merchantbtn",
+    "syncParentAccountpreviewUser": "AutoTest Merchant_SyncParent1",
+    "salesEnterpriseUser": "Testsales EnterpriseUser"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules
+cypress/videos
+cypress/screenshots
+.idea
+coverage/
+.env
+.DS_Store
+config/prod.json
+config/uat.json

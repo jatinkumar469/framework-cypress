@@ -1,0 +1,114 @@
+{
+  "accfields": {
+    "breadMerchant": "For Bread Merchants using CCB underwriting",
+    "primaryVertical": "Automotive",
+    "secondaryVertical": "Auto Aftermarket",
+    "heircahyLevel": "Holding Company",
+    "updatefieldName": "POS Checkout Capability",
+    "posupdatefield": "Key Entry",
+    "parentlegalname": "Test Update Parent Legal",
+    "partner": "ChargeAfter"
+  },
+  "exceptionFields": {
+    "marketingBudget": "Requesting approval for a paid marketing budget",
+    "exceptionAccountName": "Ohio State Buckeyes_test",
+    "recordType": "Marketing Budget",
+    "status": "Approved"
+  },
+  "updateMerchant": {
+    "updateWebsite": "www.updatewebsite.com",
+    "updateLegalName": "Test update Legal Name",
+    "merchantReferenceId": "merchant referenceid"
+  },
+  "newOpptyCreationFieldValues": {
+    "opportunityRecordType": "New Business",
+    "type": "Bread Direct",
+    "stage": "Intro Discussion",
+    "leadSource": "Outbound",
+    "accountName": "Ohio State Buckeyes_test",
+    "opportunityName": "Salesforce Oppty Creation",
+    "competitiveDeal": "Affirm",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "closeDate": "9/13/2024",
+    "priceBook": "Bread Pay Direct Sales",
+    "productName": "Clover Bread Pay App",
+    "OpportunityNameAfterSave": "Ohio State Buckeyes_test - Bread Direct - Q",
+    "nextBestAction": "NDA redline - outbound",
+    "nextBestActionDetailsData": "What support/actions are needed, either internally or externally, to progress the deal forward?",
+    "opporFieldHistory": "Opportunity Field History"
+  },
+  "salesTeamOptions": {
+    "salesTeam_1": "SMB",
+    "salesTeam_2": "Enterprise",
+    "salesTeam_3": "Card",
+    "salesTeam_4": "Sales Finance",
+    "salesTeam_5": "Embedded Finance",
+    "salesTeam_6": "Bread Pay"
+  },
+  "appConstants": {
+    "caseDeletePreConfirmText": "Are you sure you want to delete this opportunity?",
+    "newText": "New",
+    "OpportunitiesText": "Opportunities",
+    "newOpportunityText": "New Opportunity",
+    "noneText": "--None--",
+    "choosePriceBookText": "Choose Price Book",
+    "showNavigationMenuText": "Show Navigation Menu",
+    "logoutText": "Log out",
+    "diligenceRequestText": "Diligence Request",
+    "allOpenOpportunites": "All Open Opportunities",
+    "ohioStateBuckeyestest": "Ohio State Buckeyes_test"
+  },
+  "merchantInputFieldValues": {
+    "caseSubject": "Help Centre Case Creation",
+    "category": "In Store Support",
+    "subCategory": "Order Signage",
+    "caseDescription": "Help Centre Case Creation Process",
+    "merchantCompanyName": "Victoria Secret",
+    "merchantName": "Monsoor",
+    "merchantEmail": "monsoor.fayas@breadfinancial.com",
+    "merchantPhone": "2300023111",
+    "appName": "Bread Pay Service Console",
+    "recentViewCases": "Recently Viewed",
+    "fileName": "cypress/fixtures/Breadpay_order_signage_Sample.csv"
+  },
+  "accountCreation": {
+    "healthStatusReason": "Business Health",
+    "primaryVertical": "Sports & Outdoors",
+    "secondaryVertical": "Firearms",
+    "breadMerchant": "For Bread Merchants using CCB underwriting",
+    "rbcMerchant": "RBC Merchant",
+    "partnership": "Partnerships",
+    "salesTeam": "SMB",
+    "classification": "Customer",
+    "recordType": "Bread Merchant",
+    "fraudRiskLevel": "High",
+    "salutation": "Mr.",
+    "firstName": "Automation",
+    "lastName": "Test User",
+    "contactName": " Mr.Automation Test User",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott",
+    "contactFirstName": "Auto",
+    "contactLastName": "contact",
+    "recentlyViewed": "Recently Viewed Contacts",
+    "autoContact": "Auto contact",
+    "case": {
+      "recordType": "Merchant Support",
+      "subject": "Training Attestation Alert",
+      "description": "This merchant is 30 or less from their annual due date for associate training attestation. Please follow up with them.",
+      "noSuccessUserCaseOwnerText": "Merchant Support Queue",
+      "integrationCaseRecordType": "Merchant Integrations"
+    }
+  },
+  "cidc/cri": {
+    "allOpenOpportunites": "All Open Opportunities",
+    "ohioStateBuckeyestest": "Ohio State Buckeyes_test",
+    "businessName": "Ramesh",
+    "fein/faxId": "123654789",
+    "address": "132 My Street",
+    "city": "New York",
+    "state/territory": "Alaska",
+    "zip/postalCode": "60601",
+    "contry": "USA"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "successUserName": "AutoTest Buyer_Support1",
+  "createBuyerSupportCase": {
+    "caseRecordType": "Buyer Support",
+    "caseRecordType_CBR": "Credit Bureau Reporting",
+    "caseSubject": "Salesforce Case Creation buyer support",
+    "caseDescription": "Salesforce Case Creation buyer support description",
+    "loanNumber": "56677",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott",
+    "category": "Loan Adjustments",
+    "subCategory": "Change Loan Terms",
+    "product": "ACH Loan",
+    "caseOrigin": "Phone",
+    "merchant": "Ohio State Buckeyes_test",
+    "complaint": "Not a Complaint",
+    "requester": "Merchant",
+    "caseType": "Buyer Support",
+    "caseType_CBR": "Credit Bureau Reporting",
+    "complaintSummaryText": "complaintSummary",
+    "resolvedStatusOps": "Resolved",
+    "caseCloseReason": "Case Close Reason",
+    "complaintText": "Complaint?",
+    "refundCheck": "Was Interest Requested as Refund Check?",
+    "creditReportingDispute": "Credit Reporting Dispute (Open)",
+    "closedACDV_Option": "Closed ACDV"
+  },
+  "complaintReasonDropdownValues": {
+    "cr_option1": "Account Management - Difficulties Updating Contact Info",
+    "cr_option2": "Account Management - No PDF or Paper Statements",
+    "cr_option3": "Application Process - Credit Limit too Low",
+    "cr_option4": "Collection Practices - Skip Payment Program Enrollment or Ineligibility",
+    "cr_option5": "Customer Service - Marketing/Advertisement",
+    "cr_option6": "Customer Service - Misleading/Deceptive"
+  },
+  "loanDisputeReasonDropdownValues": {
+    "typeofdispute": "Direct"
+  },
+  "whoRaisedComplaintDropdownOptions": {
+    "wraisedc_option1": "Applicant",
+    "wraisedc_option2": " "
+  },
+  "whoResolvedComplaintDropdownOptions": {
+    "wresolc_option1": "Associate",
+    "wresolvc_option2": " "
+  },
+  "howWasComplaintHandledDropdownOptions": {
+    "hwCHandle_option1": "Applicant",
+    "hwCHandle_option2": " "
+  }
+}

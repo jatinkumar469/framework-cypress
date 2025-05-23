@@ -1,0 +1,25 @@
+{
+  "successUserName": "Auto-User Signage",
+  "createOrderSignage": {
+    "appName": "Bread Pay Service Console",
+    "caseRecordType": "Merchant Support",
+    "category": "In Store Support",
+    "subCategory": "Order Signage",
+    "caseOrigin": "Email",
+    "caseSubject": "Service Case order signage verification",
+    "caseDescription": "Service Case order signage verification Description",
+    "caseBillToInfo": "Merchant",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott",
+    "invalidSignageFileName": "Invalid_order_signage_sample",
+    "fileAddedToastMessage": "1 file was added to the Case.",
+    "invalidFilePath": "cypress/fixtures/Invalid_order_signage_sample.csv",
+    "orderNumber_1": "345",
+    "orderNumber_2": "346",
+    "orderNumber_3": "347",
+    "fileName": "cypress/fixtures/Breadpay_order_signage_Sample.csv",
+    "processOrderSignageFileTab": "Process Order Signage Files",
+    "submitOrderSignageButton": "Submit Order Signage",
+    "processFileButton": "Process File"
+  }
+}

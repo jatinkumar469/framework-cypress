@@ -1,0 +1,58 @@
+{
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+      "babelOptions": {
+        "plugins": ["@babel/plugin-proposal-class-properties"]
+      }
+    },
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "plugins": ["@babel", "cypress", "unused-imports", "import"],
+    "extends": ["eslint:recommended", "plugin:cypress/recommended"],
+    "rules": {
+      "no-console": "off",
+      "no-unused-vars": "warn",
+      "unused-imports/no-unused-imports": "error",
+      "unused-imports/no-unused-vars": [
+        "warn",
+        {
+          "vars": "all",
+          "varsIgnorePattern": "^_",
+          "args": "after-used",
+          "argsIgnorePattern": "^_"
+        }
+      ],
+      "import/order": [
+        "error",
+        {
+          "newlines-between": "always",
+          "alphabetize": {
+            "order": "asc",
+            "caseInsensitive": true
+          }
+        }
+      ],
+      "cypress/assertion-before-screenshot": "error",
+      "cypress/no-assigning-return-values": "error",
+      "cypress/no-async-tests": "error",
+      "cypress/no-force": "error",
+      "cypress/no-unnecessary-waiting": "error",
+      "cypress/unsafe-to-chain-command": "error",
+      "no-global-assign": [
+        "error",
+        {
+          "exceptions": ["describe"]
+        }
+      ]
+    },
+    "overrides": [
+      {
+        "files": ["*-test.js", "*.cy.js"],
+        "rules": {
+          "arrow-parens": 1
+        }
+      }
+    ]
+  }

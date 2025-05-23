@@ -1,0 +1,16 @@
+{
+  "successUserName": "Test Sales enterprise",
+  "createBusinessOpportunity": {
+    "opportunityRecordType": "New Business",
+    "type": "Bread Direct",
+    "stage": "Intro Discussion",
+    "leadSource": "Outbound",
+    "accountName": "Ohio State Buckeyes_test",
+    "opportunityName": "Salesforce Oppty Creation",
+    "competitiveDeal": "Affirm",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "closeDate": "9/13/2024",
+    "priceBook": "Bread Pay Direct Sales",
+    "productName": "Clover Bread Pay App"
+  }
+}

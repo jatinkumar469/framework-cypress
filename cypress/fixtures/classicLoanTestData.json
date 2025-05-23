@@ -1,0 +1,9 @@
+{
+  "successUserName": "AutoTest Classic_loan1",
+  "createClassicLoan": {
+    "classicLoan": "8292555",
+    "loanPlatform": "Test",
+    "loanStatus": "New",
+    "merchantText": "Test"
+  }
+}

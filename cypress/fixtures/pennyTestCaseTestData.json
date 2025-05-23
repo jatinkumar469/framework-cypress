@@ -1,0 +1,12 @@
+{
+  "successUserName": "AutoTest Penny_Test1",
+  "createPennyTestCase": {
+    "caseRecordType": "Penny Test",
+    "caseSubject": "Salesforce penny test case creation demo",
+    "caseDescription": "Salesforce penny test case creation description",
+    "priority": "High",
+    "caseOrigin": "Phone",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "requesterContactName": "Testy Jr McDermott"
+  }
+}

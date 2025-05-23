@@ -1,0 +1,15 @@
+{
+  "successUserName": "AutoTest Loan_Program1",
+  "createLoanProgramChange": {
+    "caseRecordType": "Loan Program Change",
+    "caseDescription": "Salesforce Case Creation Loan program change",
+    "requesterAccountName": "Ohio State Buckeyes_test",
+    "programChangePurpose": "Targeted financing",
+    "programTerms": "Program terms test",
+    "programSpentThreshold": "1.00",
+    "otherThreshold": "Other threshold test",
+    "channelsMarkedIn": "Channels marked test",
+    "financingProgramId": "345",
+    "disabledFinancingProgramId": "561"
+  }
+}

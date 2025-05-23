@@ -1,0 +1,19 @@
+{
+  "successUserName": "Test Sales card user",
+  "createBreadCardOpportunity": {
+    "opptyRecordType": "Bread Card",
+    "breadCard": "For Bread Financial Card-driven contracts (Card, Sales Finance, Embedded Finance)",
+    "breadMerchant": "For Bread Merchants using CCB underwriting",
+    "oppportunityName": "Automation Opportunity",
+    "accountName": "Cypress Test Account",
+    "type": "Card",
+    "stage": "Intro Discussion",
+    "closedate": "6/30/2024",
+    "priceBook": "Bread Pay Success Upsell",
+    "productName": "Virtual Card SplitPay",
+    "salesTeam": "Card",
+    "primaryVertical": "Sports & Outdoors",
+    "secondaryVertical": "Firearms",
+    "fraudRiskLevel": "High"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "successuserName": "Cypress Success User",
+  "createUpsellOpportunity": {
+    "opptyRecordType": "Upsell",
+    "oppportunityName": "Automation  Upsell Opportunity",
+    "accountName": "Cypress Test Account",
+    "type": "Upsell Website",
+    "stage": "Intro Discussion",
+    "closeDate": "6/30/2024",
+    "priceBook": "Bread Pay Success Upsell",
+    "priceBook2": "Bread Pay Direct Sales",
+    "productName": "Virtual Card SplitPay",
+    "upsell": "For upsell opportunities with existing merchants"
+  }
+}
