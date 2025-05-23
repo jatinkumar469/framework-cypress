@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://aethereus-1f-dev-ed.develop.my.salesforce.com/",
+  "saleforceBaseURL": "https://aethereus-1f-dev-ed.develop.my.salesforce.com/",
+  "env": {
+    "home": "lightning/page/home/",
+    "salesforceUsername": "jatinaethereus469108@gmail.com",
+    "salesforcePassword": "098@qwZX"
+  }
+}
