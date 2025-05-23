@@ -25,7 +25,7 @@ jobs:
 
       - name: Replace salesforcePassword in uat.json
         run: |
-          sed -i 's/"salesforcePassword": *"replacePasswordForLocal"/"salesforcePassword": "'"$LOCAL_SALESFORCE_PASSWORD"'"/' config/uat.json
+          jq '.env.salesforcePassword=env.LOCAL_SALESFORCE_PASSWORD' config/uat.json > tmp.json && mv tmp.json config/uat.json
         env:
           LOCAL_SALESFORCE_PASSWORD: ${{ secrets.LOCAL_SALESFORCE_PASSWORD }}
 
