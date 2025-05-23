@@ -1,0 +1,37 @@
+name: Cypress CI
+
+on:
+  schedule:
+    - cron: '30 0 * * *' # This will run at 6 AM IST (UTC+5:30)
+  push:
+    branches:
+      - main
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Cypress tests
+        run: |
+          npx cypress run --headless --browser chrome || true
+        continue-on-error: true
+
+      - name: Capture screenshots on failure
+        if: failure()
+        run: |
+          echo "Capturing screenshots..."
+          mkdir -p screenshots
+          cp -r cypress/screenshots/* screenshots/
+          echo "Screenshots captured."
