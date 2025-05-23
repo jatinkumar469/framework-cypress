@@ -30,7 +30,7 @@ jobs:
           LOCAL_SALESFORCE_PASSWORD: ${{ secrets.LOCAL_SALESFORCE_PASSWORD }}
 
       - name: Run Cypress tests
-        run: npx cypress run --headless --browser chrome
+        run: npx cypress run --headless 
         continue-on-error: false
 
       - name: Upload Cypress screenshots (on failure)
